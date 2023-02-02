@@ -3,4 +3,6 @@ languageCode = 'en-us'
 title = 'Blog for Ideas'
 theme = 'hugo-PaperMod'
 params:
-	ShowBreadCrumbs: true
+	homeInfoParams:
+		Title: Hi there wave
+		Content: Can be Info, links, about...
