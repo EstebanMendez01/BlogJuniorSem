@@ -2,8 +2,8 @@ baseURL = 'https://junior-sem-blog-estebanmendez.netlify.app/'
 languageCode = 'en-us'
 title = 'Blog for Ideas'
 theme = 'hugo-PaperMod'
-params:
-    profileMode:
+[params]
+    [profileMode]
         enabled= true
         title= "<Title>" # optional default will be site title
         subtitle= "This is subtitle"
@@ -11,6 +11,6 @@ params:
         imageTitle= "<title of image as alt>" # optional
         imageWidth= 120 # custom size
         imageHeight= 120 # custom size
-        buttons:
+        [buttons]
             - name= Ideas
                 url= "/content/posts"
