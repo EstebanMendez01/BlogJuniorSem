@@ -11,6 +11,6 @@ params:
         imageHeight: 120 # custom size
         button:
             background: "#6d19fc"
-            text: "Ideas"
+            name: "Ideas"
             url: "../content/posts"
 
