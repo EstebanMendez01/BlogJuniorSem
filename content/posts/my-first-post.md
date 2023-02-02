@@ -7,6 +7,7 @@ layout: "archives"
 url: "/content/posts/"
 summary: Ideas
 draft: false
+ShowBreadCrumbs: false
 ---
 
 Hello this is my first post
