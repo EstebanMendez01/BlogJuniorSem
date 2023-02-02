@@ -8,9 +8,9 @@ params:
         Title: Hi there 👋
         Content: Welcome to my Book of Ideas || Esteban Mendez
         button:
-            - name: 'Ideas'
+            name: 'Ideas'
             url: '/content/posts'
-            - name: 'About'
+            name: 'About'
             url: '/content/about.md'
 
 
