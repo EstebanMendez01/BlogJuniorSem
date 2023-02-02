@@ -12,5 +12,5 @@ theme = 'hugo-PaperMod'
         imageWidth= 120 # custom size
         imageHeight= 120 # custom size
         [buttons]
-            - name= Ideas
-                url= "/content/posts"
+            name= Ideas
+            url= "/content/posts"
