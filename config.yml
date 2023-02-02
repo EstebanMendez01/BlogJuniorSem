@@ -100,9 +100,9 @@ menu:
   main:
     - identifier: categories
       name: posts
-      url: ../content/posts/
+      url: /posts/
       weight: 10
     - identifier: tags
       name: about
-      url: ../content/about/
+      url: /about/
       weight: 20
