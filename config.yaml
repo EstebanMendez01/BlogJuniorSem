@@ -2,10 +2,10 @@ baseURL : 'https://junior-sem-blog-estebanmendez.netlify.app/'
 languageCode : 'en-us'
 title : 'Blog for Ideas'
 theme : 'hugo-PaperMod'
-# params:
-#     homeInfoParams:
-#         Title: Hi there 👋
-#         Content: Welcome to my Book of Ideas || Esteban Mendez
+params:
+    homeInfoParams:
+        Title: Hi there 👋
+        Content: Welcome to my Book of Ideas || Esteban Mendez
 
 
 
