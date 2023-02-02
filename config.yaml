@@ -6,4 +6,5 @@ params:
     homeInfoParams:
         Title: Hi there 👋
         Content: Welcome to my Book of Ideas || Esteban Mendez
+    ShowBreadCrumbs: true
 
