@@ -1,4 +1,4 @@
-baseURL : 'https://junior-sem-blog-estebanmendez.netlify.app/'
+baseURL : 'https://juniorsem-estebanmendez.netlify.app/'
 languageCode : 'en-us'
 title : 'Blog for Ideas'
 paginate: 5
