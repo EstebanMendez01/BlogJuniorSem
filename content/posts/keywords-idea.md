@@ -1,8 +1,6 @@
 ---
-title: "Keywords"
-date: 2023-02-07T11:49:13-05:00
-layout: "single"
-summary: Keywords
+title: "Keywords Idea"
+date: 2023-02-07T11:45:35-05:00
 draft: false
 tags: ["third"]
 author: "Me"
@@ -31,7 +29,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-
+# Main Keywords for Research Idea
 
 The keywords that I have found relevant for my idea:
 - video game
