@@ -1,6 +1,6 @@
 ---
 title: "Senior Project Feasible?"
-date: 2023-03-20T23:36:36-04:00
+date: 2023-03-20 T23:36:36-04:00
 draft: false
 tags: ["fourth"]
 author: "Me"
