@@ -1,7 +1,11 @@
 ---
-title: "ThesisProposal"
+title: "Research Proposal"
 date: 2023-05-03T14:22:40-04:00
-draft: true
+draft: false
+tags: ["final"]
+author: "Me"
+showToc: false
+draft: false
 ---
 # Thesis Proposal: Designing a Sports Game for Learning Basic Python Concepts
 
